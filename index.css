@@ -1,0 +1,31 @@
+#title{
+    color: blue;
+}
+
+
+.flexc{
+    display: flex;
+    width: fit-content;
+    margin: auto;
+    
+}
+#red ,#yellow ,#green{
+    background-color: white;
+}
+
+.clearGameButtonDiv{
+    width: 4em;
+    margin: auto;
+    margin-top: 2em;
+}
+#messageArea{
+    width: fit-content;
+    margin: auto;
+    margin-top: 1em;
+}
+.colorbutton img{
+    width: 2em;
+}
+#clearGameButton{
+    background-color: rgb(209, 231, 250);
+}
